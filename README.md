@@ -135,30 +135,3 @@ The development server runs at `http://localhost:5173` by default.
 4. **Sort**: Click column headers to sort (↕ neutral, ↑ asc, ↓ desc)
 5. **Select**: Click a row or marker to highlight and sync views
 6. **Map Navigation**: Use scroll wheel to zoom, drag to pan
-
-## Performance Metrics
-
-| Metric | Value |
-|--------|-------|
-| Dataset Size | 5,500 projects |
-| Initial Load | ~300ms (simulated API delay) |
-| Table Scroll | 60fps (virtualized) |
-| Filter Response | <50ms |
-| Bundle Size | ~115KB gzipped |
-
-## Screenshots
-
-### Dashboard Overview
-The main dashboard shows the data table on the left and the interactive map on the right.
-
-### Filtering
-Status filters and search work in real-time to narrow down results.
-
-### Selection Sync
-Clicking a row highlights the corresponding marker on the map, and vice versa.
-
-<<<<<<< HEAD
----
-=======
----
->>>>>>> 2ad14584d42381b081ff6c7df2a551f6b752bc6a
