@@ -157,4 +157,8 @@ Status filters and search work in real-time to narrow down results.
 ### Selection Sync
 Clicking a row highlights the corresponding marker on the map, and vice versa.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> 2ad14584d42381b081ff6c7df2a551f6b752bc6a
